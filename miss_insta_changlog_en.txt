@@ -1,4 +1,4 @@
-Version 8.0 Changelog:
+Version 1.0 Changelog:
 
 >[Base update] 268.0.0.18.72
 >[Added] All the new Instagram features
